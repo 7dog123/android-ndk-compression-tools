@@ -378,3 +378,5 @@ confirm_output lz4
 confirm_output liblzo2.a
 confirm_output liblzo2.so
 confirm_output lzop
+
+
