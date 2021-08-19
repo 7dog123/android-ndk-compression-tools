@@ -37,7 +37,7 @@ jobs:
       - name: install deps
         run: |
           sudo apt-get update
-          sudo apt-get install automake autoconf m4 autopoint autotools-dev pearl
+          sudo apt-get install automake autoconf m4 autopoint autotools-dev perl
       - name: download and build
         run: |
           ./download.sh
